@@ -26,7 +26,7 @@ public class AcessoManager
 
     public void LiberarPrimeiroAcessoDaFila()
     {
-        Console.WriteLine($"\nAcesso liberado para: {acesso.Peek().nomeUsuario}");
+        Console.WriteLine($"\nAcesso Removido para: {acesso.Peek().nomeUsuario}");
         acesso.Dequeue();
         Console.ReadKey();
     }
