@@ -1,0 +1,64 @@
+ List<Usuario> listaUsuarios = new List<Usuario>();
+        public void AdicionarUsuarioNaBase()
+        {
+
+            var user = new Usuario();
+            Console.WriteLine("Digite o nome do usuário");
+            user.Nome = Console.ReadLine();
+
+            Console.WriteLine("Digite o número do CPF");
+            user.CPF = Console.ReadLine();
+
+            Console.WriteLine("Digite o número do RA");
+            user.RA = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Digite o email");
+            user.Email = Console.ReadLine();
+
+            Console.WriteLine("Digite a data de nascimento");
+            user.DataDeNascimento = Convert.ToDateTime(Console.ReadLine() ?? "");
+            listaUsuarios.Add(user);
+            
+            Console.WriteLine("Usuário adicionado com sucesso!");
+            Console.WriteLine("Tamanho da lista: " + listaUsuarios.Count);
+            Console.ReadLine();
+        }
+
+        public void RemoverUsuarioDaBase()
+        { 
+            Console.WriteLine("Digite o nome do usuário");
+            var nomeParaRemover = Console.ReadLine();
+            listaUsuarios.RemoveAll(x => x.Nome.Contains(nomeParaRemover));
+            Console.WriteLine("Usuário removido com sucesso");
+            Console.ReadLine();
+        }
+
+        public void AlterarUsuarioNaBase()
+        {
+            Console.WriteLine("Método Não Implementado (AINDA)");
+            Console.ReadLine();
+        }
+
+        public void PesquisarUsuarioNaBase()
+        {
+
+            Console.WriteLine("Digite o nome do usuário");
+            var usuariosEncontrados =
+                listaUsuarios.FindAll(x => x.Nome.Contains("João"));
+            foreach(var usuario in usuariosEncontrados) {
+                Console.WriteLine("Usuário Encontrado");
+                Console.WriteLine("Nome:" + usuario.Nome);
+                Console.WriteLine("CPF:" + usuario.CPF);
+                Console.WriteLine("RA:" + usuario.RA);
+                Console.WriteLine("Email:" + usuario.Email);
+                Console.WriteLine("Data de Nascimento:" + usuario.DataDeNascimento);
+            }
+        }
+
+        public void ListarTodosOsUsuariosDaBase()
+        {
+            Console.WriteLine("Método Não Implementado (AINDA)");
+            Console.ReadLine();
+        }
+    }
+    }

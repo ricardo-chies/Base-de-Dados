@@ -1,0 +1,45 @@
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\bin\Debug\net6.0\BaseDeDados.exe
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\bin\Debug\net6.0\BaseDeDados.deps.json
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\bin\Debug\net6.0\BaseDeDados.runtimeconfig.json
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\bin\Debug\net6.0\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\bin\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.csproj.AssemblyReference.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.AssemblyInfoInputs.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.AssemblyInfo.cs
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\refint\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\BaseDeDados.genruntimeconfig.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjEstruturaDeDados\BaseDeDados\obj\Debug\net6.0\ref\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\bin\Debug\net6.0\BaseDeDados.exe
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\bin\Debug\net6.0\BaseDeDados.deps.json
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\bin\Debug\net6.0\BaseDeDados.runtimeconfig.json
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\bin\Debug\net6.0\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\bin\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.csproj.AssemblyReference.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.AssemblyInfoInputs.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.AssemblyInfo.cs
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\refint\BaseDeDados.dll
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\BaseDeDados.genruntimeconfig.cache
+C:\Users\Matfr\Desktop\Faculdade\ProjetoEstruturaDeDados\BaseDeDados0.1\obj\Debug\net6.0\ref\BaseDeDados.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\bin\Debug\net6.0\BaseDeDados.exe
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\bin\Debug\net6.0\BaseDeDados.deps.json
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\bin\Debug\net6.0\BaseDeDados.runtimeconfig.json
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\bin\Debug\net6.0\BaseDeDados.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\bin\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.csproj.AssemblyReference.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.AssemblyInfoInputs.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.AssemblyInfo.cs
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\refint\BaseDeDados.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.pdb
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\BaseDeDados.genruntimeconfig.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\3 Semestre\Estrutura de Dados\BaseDeDados Completa!\BaseDeDadosCompleta\obj\Debug\net6.0\ref\BaseDeDados.dll
