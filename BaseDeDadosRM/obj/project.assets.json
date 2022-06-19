@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados Completa!\\BaseDeDadosCompleta\\BaseDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados RM\\BaseDeDadosRM\\BaseDeDados.csproj",
       "projectName": "BaseDeDados",
-      "projectPath": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados Completa!\\BaseDeDadosCompleta\\BaseDeDados.csproj",
+      "projectPath": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados RM\\BaseDeDadosRM\\BaseDeDados.csproj",
       "packagesPath": "C:\\Users\\Ricardo Chies\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados Completa!\\BaseDeDadosCompleta\\obj\\",
+      "outputPath": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\3 Semestre\\Estrutura de Dados\\BaseDeDados RM\\BaseDeDadosRM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ricardo Chies\\AppData\\Roaming\\NuGet\\NuGet.Config"

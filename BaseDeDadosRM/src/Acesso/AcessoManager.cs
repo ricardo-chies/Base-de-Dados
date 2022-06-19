@@ -40,7 +40,6 @@ public class AcessoManager
         }
         
         Console.WriteLine($"\nAcesso Removido para: {acesso.Dequeue().nomeUsuario}");
-        Console.WriteLine($"\nAcesso Removido para: {acesso.Peek().nomeUsuario}");
         Console.ReadKey();
     }
 
